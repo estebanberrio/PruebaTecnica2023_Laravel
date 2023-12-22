@@ -17,7 +17,7 @@ Aquí está la aventura que vivimos en nuestro último despliegue:
 
 ## 📸 Imágenes del Progreso
 
-![Uploading image.png…]()
+![Cambios en el código](images/cambios.png)
 
 ---
 
